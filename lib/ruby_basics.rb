@@ -11,7 +11,7 @@ def argue
 end
 
 def greeting
-  
+  puts 
 end
 
 def return_a_value
